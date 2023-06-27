@@ -1,1 +1,48 @@
 2023-06-27 13:11:14,136 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-27 13:13:01,201 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-27 13:14:22,509 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PolyHealthCenter:0.0.1-SNAPSHOT @ C:\Users\Micro\Desktop\PolyHealthCenter\pom.xml.
+2023-06-27 13:14:36,584 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PolyHealthCenter/src/main/java
+2023-06-27 13:14:36,585 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PolyHealthCenter/src/main/resources
+2023-06-27 13:14:36,587 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PolyHealthCenter/src/main/resources
+2023-06-27 13:14:36,588 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PolyHealthCenter/src/test/java
+2023-06-27 13:14:38,977 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 45 sec
+2023-06-27 13:14:40,156 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-27 13:14:47,752 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PolyHealthCenter:0.0.1-SNAPSHOT @ C:\Users\Micro\Desktop\PolyHealthCenter\pom.xml.
+2023-06-27 13:14:50,151 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PolyHealthCenter/src/main/java
+2023-06-27 13:14:50,152 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PolyHealthCenter/src/main/resources
+2023-06-27 13:14:50,152 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PolyHealthCenter/src/main/resources
+2023-06-27 13:14:50,153 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PolyHealthCenter/src/test/java
+2023-06-27 13:14:52,181 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 7,00 sec, refresh facades takes 2,00 sec, update config takes 2,00 sec 
+2023-06-27 13:18:22,042 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PolyHealthCenter:0.0.1-SNAPSHOT @ C:\Users\Micro\Desktop\CapstoneProject\PolyHealthCenter\pom.xml.
+2023-06-27 13:18:23,598 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PolyHealthCenter/src/main/java
+2023-06-27 13:18:23,600 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PolyHealthCenter/src/main/resources
+2023-06-27 13:18:23,705 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PolyHealthCenter/src/main/resources
+2023-06-27 13:18:23,807 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PolyHealthCenter/src/test/java
+2023-06-27 13:18:29,452 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2023-06-27 13:18:29,456 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-27 13:18:30,308 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PolyHealthCenter:0.0.1-SNAPSHOT @ C:\Users\Micro\Desktop\CapstoneProject\PolyHealthCenter\pom.xml.
+2023-06-27 13:18:31,301 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PolyHealthCenter/src/main/java
+2023-06-27 13:18:31,303 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PolyHealthCenter/src/main/resources
+2023-06-27 13:18:31,304 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PolyHealthCenter/src/main/resources
+2023-06-27 13:18:31,315 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PolyHealthCenter/src/test/java
+2023-06-27 13:18:32,404 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2023-06-27 13:21:40,208 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PolyHealthCenter:0.0.1-SNAPSHOT @ C:\Users\Micro\Desktop\CapstoneProject\PolyHealthCenter\pom.xml.
+2023-06-27 13:21:43,957 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PolyHealthCenter/src/main/java
+2023-06-27 13:21:43,959 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PolyHealthCenter/src/main/resources
+2023-06-27 13:21:43,973 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PolyHealthCenter/src/main/resources
+2023-06-27 13:21:44,005 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PolyHealthCenter/src/test/java
+2023-06-27 13:21:54,525 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 18 sec
+2023-06-27 13:21:54,528 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-27 13:21:56,330 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PolyHealthCenter:0.0.1-SNAPSHOT @ C:\Users\Micro\Desktop\CapstoneProject\PolyHealthCenter\pom.xml.
+2023-06-27 13:21:58,586 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PolyHealthCenter/src/main/java
+2023-06-27 13:21:58,587 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PolyHealthCenter/src/main/resources
+2023-06-27 13:21:58,588 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PolyHealthCenter/src/main/resources
+2023-06-27 13:21:58,589 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PolyHealthCenter/src/test/java
+2023-06-27 13:21:59,884 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 4,00 sec, update config takes 0,00 sec 
+2023-06-27 13:23:34,396 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PolyHealthCenter:0.0.1-SNAPSHOT @ C:\Users\Micro\Desktop\CapstoneProject\PolyHealthCenter\pom.xml.
+2023-06-27 13:23:37,657 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-27 13:23:37,658 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-27 13:23:37,668 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Micro\Desktop\CapstoneProject\PolyHealthCenter\src\test\resources
+2023-06-27 13:23:38,254 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-27 13:23:38,291 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-27 13:23:38,297 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Micro\Desktop\CapstoneProject\PolyHealthCenter\src\test\resources
